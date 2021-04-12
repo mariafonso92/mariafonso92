@@ -4,6 +4,8 @@
 
 Here are some ideas to get you started:
 
-Sou a Mariana, tenho 29 anos 
-E estou estudando ADS e participando do Treinamento Java
-Amo muito minha família, a natureza e viajar.
+:information_desk_person:  Sou a Mariana, tenho 29 anos.
+
+:book: Estou estudando ADS e participando do Treinamento Java.
+
+ :hearts: Amo muito minha família, a natureza e viajar. 
