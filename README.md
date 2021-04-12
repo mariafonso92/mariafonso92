@@ -1,8 +1,8 @@
-### Hi there 👋
+### Seja Bem - Vindo👋
 
-**mariafonso92/mariafonso92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mariafonso92/mariafonso92** 
 
-Here are some ideas to get you started:
+
 
 :information_desk_person:  Sou a Mariana, tenho 29 anos.
 
